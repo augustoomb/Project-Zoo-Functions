@@ -16,7 +16,7 @@ function getOldestFromFirstSpecies(id) {
     Object.entries(animalResidenteMaisVelho)[1][1],
     Object.entries(animalResidenteMaisVelho)[2][1],
   ];
-  return arrObjAnimalResidenteMaisVelho;
+  return arrObjAnimalResidenteMaisVelho; // testegithub
 }
 
 module.exports = getOldestFromFirstSpecies;
